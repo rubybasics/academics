@@ -30,3 +30,5 @@ In a true "flipped classroom" lesson, videos are assigned for students to watch 
 * Steve - Mike
 * Jeff - Rachel - Horace
 * Josh M. - Jorge
+
+### Questions?

@@ -6,8 +6,8 @@ In a true "flipped classroom" lesson, videos are assigned for students to watch 
 
 * Choose one lesson from 7/20 - 7/31 to implement using the "flipped classroom" lesson model
 * Try either: 
-  - True flipped lesson: record a session beforehand, assign as homework, and use class time as a workshop where instructor is available to answer questions
-  - Preview flipped lesson: record a <10 minute video beforehand and explain key concepts, then use class time to dive deep into those concepts
+  - True flipped lesson: record a session beforehand as homework or assign material to read, and use class time as a workshop where instructor is available to answer questions
+  - Preview flipped lesson: record a <10 minute video beforehand and explain key concepts or prepare a written explanation, then use class time to dive deep into those concepts
 * Discuss results at workshop on Wednesday, 8/5
 
 ### Cross-Instructor Observations

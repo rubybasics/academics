@@ -12,13 +12,13 @@ Read [this article](http://oer.educ.cam.ac.uk/wiki/Teaching_Approaches/Questioni
 
 1) Look at the bullet point list under “Why Question?” Which point(s) would you like to improve in your own teaching?
 
-1) Do you do more open or closed questioning in your classes right now?
+2) Do you do more open or closed questioning in your classes right now?
 
-1) Think back to a lesson you taught this week. If you were to re-teach that lesson, what is an example of an effective question you would ask? 
+3) Think back to a lesson you taught this week. If you were to re-teach that lesson, what is an example of an effective question you would ask? 
 
-1) Given the ideas suggested in the article, what is one thing you will try in order to enhance engagement and participation in questioning? 
+4) Given the ideas suggested in the article, what is one thing you will try in order to enhance engagement and participation in questioning? 
 
-1) What are some of the challenges of questioning students while teaching? 
+5) What are some of the challenges of questioning students while teaching? 
 
 ## Example Walk Through
 

@@ -26,4 +26,4 @@ Let's walk through a 10-minute example from a debugging code-along. As we do thi
 
 ## Work Time
 
-Choose a lesson you'll teach in the next week or two. Brainstorm and add at least three effective questions that could be asked during the class. 
+Choose a lesson you'll teach in the next week or two. Brainstorm and add at least three effective questions that could be asked during that class, and add them to the lesson plan. 

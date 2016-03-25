@@ -2,7 +2,7 @@
 
 ## Intro
 
-* What is a teacher's job? 
+* What is an instructor's job? 
 * What is questioning?
 * How does questioning enhance student participation, engagement, and ultimately achievement? 
 

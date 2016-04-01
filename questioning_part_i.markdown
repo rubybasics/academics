@@ -1,4 +1,11 @@
-# Teaching Strategies: Questioning in the Classroom
+# Teaching Strategies: Questioning in the Classroom, Part I
+
+## Goals
+
+* explain importance of questioning during instruction
+* differentiate between open and closed questions
+* determine where questions fall on Bloom's Taxonomy
+* brainstorm open and closed questions to ask in example lesson 
 
 ## Intro
 
